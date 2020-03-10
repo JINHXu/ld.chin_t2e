@@ -1,9 +1,11 @@
-# A survival analysis of lexical decision data of Mandarin Chinese.
+# Time-to-event analysis ld.chin
 
-Lexical decision data for Mandarin Chinese (Tsang et al., 2018). Participants were shown a stimulus on the screen and were asked to indicate if this stimulus was a word or nonword.
+A survival analysis of lexical decision data of Mandarin Chinese.
+
+_Lexical decision data for Mandarin Chinese (Tsang et al., 2018). Participants were shown a stimulus on the screen and were asked to indicate if this stimulus was a word or nonword._
 
 
-Project Structure: <br>
+### Structure overview: <br>
 * (enviroment prepare)
 * data overview and inspect through objective functions
 * models with each individual predictor:
