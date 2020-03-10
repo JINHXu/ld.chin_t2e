@@ -1,6 +1,6 @@
 # Time-to-event analysis ld.chin
 
-A survival analysis of lexical decision data of Mandarin Chinese.
+A survival analysis of lexical decision data of Mandarin Chinese with R.
 
 _Lexical decision data for Mandarin Chinese (Tsang et al., 2018). Participants were shown a stimulus on the screen and were asked to indicate if this stimulus was a word or nonword._
 
