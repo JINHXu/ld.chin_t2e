@@ -20,7 +20,7 @@ _Lexical decision data for Mandarin Chinese (Tsang et al., 2018). Participants w
 
 Originally built as Kaggle notebook. View the project:
 
-* [HTML output]()
+* [HTML output](https://github.com/JINHXu/ld.chin_t2e/blob/master/__results__.html)
 * [code JupyterNotebook](https://github.com/JINHXu/ld.chin_t2e/blob/master/t2e-ld-chin.ipynb)
 * [@xujinghua on Kaggle](https://www.kaggle.com/xujinghua/t2e-ld-chin/data)
 
